@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    CB email@git.com @giterdone
 
 # THANKS
 
